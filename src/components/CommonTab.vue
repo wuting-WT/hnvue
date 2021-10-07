@@ -2,6 +2,7 @@
   <div class="tabs">
       222
       我是222分支的内容
+      woshi
     <!--closable这里说明home是不能关闭的-->
     <el-tag
       size="medium"
